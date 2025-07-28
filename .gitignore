@@ -11,6 +11,7 @@ Packages/com.unity.collab-proxy/
 
 # Visual Studio
 .vscode/
+.vs/
 *.csproj
 *.sln
 *.suo
@@ -19,6 +20,7 @@ Packages/com.unity.collab-proxy/
 *.pidb
 *.unityproj
 *.booproj
+
 
 # OS
 .DS_Store
@@ -30,6 +32,9 @@ sysinfo.txt
 # Unity Cache Server
 unitycache/
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 UserSettings/
 >>>>>>> 8643db4b01008ec94b03bc4f27a5d5d9cdbd0f6f
+=======
+>>>>>>> 3cde663fc268dbf01c07fb9a96bbe3e631bc52cf
