@@ -77,14 +77,14 @@ public class UIController : MonoBehaviour
     // "덱" 버튼 기능
     void OnDeckButtonClick()
     {
-        Debug.Log("덱 버튼이 클릭되었습니다.");
+        Debug.Log("덱!");
         // 여기에 나중에 덱 관련 기능을 추가할 수 있습니다.
     }
 
     // "설정" 버튼 기능
     void OnSettingsButtonClick()
     {
-        Debug.Log("설정 버튼이 클릭되었습니다.");
+        Debug.Log("설정!.");
         // 여기에 나중에 설정 관련 기능을 추가할 수 있습니다.
     }
 
