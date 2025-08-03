@@ -4,7 +4,7 @@ using UnityEngine.UI;
 public class UIController : MonoBehaviour
 {
     // --- Unity 에디터에서 연결할 UI 요소들 ---
-    [Header("1. UI 요소 연결")]
+    [Header("1. UI 요소연결")]
     public Image backgroundImageComponent;
     public Button moveButton;
     public Button deckButton;       // 덱 버튼 추가
