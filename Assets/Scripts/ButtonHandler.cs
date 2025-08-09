@@ -1,7 +1,7 @@
 
 using UnityEngine;
 
-// 이 스크립트는 UI 버튼들의 클릭 이벤트를 처리합니다.
+// 이 스크립트는 UI 버튼들의 클릭 이벤트를 처리
 public class ButtonHandler : MonoBehaviour
 {
     // "이동" 버튼을 클릭했을 때 호출될 함수
